@@ -1,0 +1,13 @@
+.icon(
+    [fastHtmlBind]='pngPath',
+    *ngIf='!isHTML && isPNG'
+)
+i.icon(
+    class='fa-fw {{icon}}',
+    [style.color]='color',
+    *ngIf='!isHTML && !isPNG'
+)
+.icon(
+    [fastHtmlBind]='icon',
+    *ngIf='isHTML && icon'
+)
