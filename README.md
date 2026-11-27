@@ -366,3 +366,21 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
+
+## Ficha del proyecto
+
+Fork de Tabby, terminal multiplataforma con módulos de sesión local, SSH y frontend web.
+
+### Contenido
+
+- [tabby-community-color-schemes](./tabby-community-color-schemes), [tabby-core](./tabby-core), [tabby-terminal](./tabby-terminal), [tabby-electron](./tabby-electron), [package.json](./package.json), [app/package.json](./app/package.json), [web/package.json](./web/package.json), [tabby-ssh/package.json](./tabby-ssh/package.json), [tabby-web/package.json](./tabby-web/package.json).
+
+### Uso
+
+Consulta las instrucciones originales de compilación e instalación para esta revisión. Los requisitos dependen de la plataforma de destino.
+
+### Origen
+
+- [Repositorio de origen](https://github.com/miguelclaros23/tabby)
+- [Proyecto del que deriva](https://github.com/Eugeny/tabby)
+- Licencia de origen en [LICENSE](./LICENSE).
